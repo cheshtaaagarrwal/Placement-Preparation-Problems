@@ -1,6 +1,7 @@
 # Placement-Preparation-Problems
 
-Coding Problems which are very helpful for Placement Preparation ! Collected from varios online coding platforms like LeetCode, InterviewBit, GeeksforGeeks etc.
+Coding Problems which are very helpful for Placement Preparation !
+Collected from various online coding platforms like LeetCode, InterviewBit, GeeksforGeeks etc.
 
 ## Rules :
 
@@ -10,8 +11,7 @@ Coding Problems which are very helpful for Placement Preparation ! Collected fro
 
 ### Contributing Guides :
 
--   Find appropiate issue that you want to contibute to. Ask for assignment.
+-   Find appropiate issue that you want to contribute to. Ask for assignment.
 -   Fork the repo.
 -   Code.
 -   Do PR.
--   Merge (if appropiate)
